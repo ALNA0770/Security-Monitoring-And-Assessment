@@ -63,9 +63,9 @@ The project highlights effective methods for securing network devices and demons
 
 ## **Contact**
 For questions or contributions, please reach out:
-- **Name:** [Your Name]
-- **Email:** your.email@example.com
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **Name:** Alijon Nazarov
+- **Email:** anazaro1@stu.vistula.edu.pl
+- **GitHub:** (https://github.com/ALNA0770)
 
 ---
 Thank you for exploring this project! Feel free to suggest improvements or report issues in the repository.

@@ -19,6 +19,7 @@ This README provides step-by-step instructions for installing VMware and setting
    - Windows Server ISO: (Official licensing or trial from [Microsoft](https://www.microsoft.com))
 
 ---
+![image](https://github.com/user-attachments/assets/d34e4a7e-ce71-429a-827d-c83f75c999d5)
 
 ## Installation Steps
 

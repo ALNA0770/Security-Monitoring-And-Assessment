@@ -1,11 +1,12 @@
 # Thesis
 Thesis of bachelor degree  
 # Security Assessment and Hardening of Network Devices
-
+(Project is minimum 50 GB)
 This repository contains the project files, configurations, and documentation for the thesis **"Security Assessment and Hardening of Network Devices."**
 
 ## **Overview**
 This project focuses on securing network devices by implementing and assessing various security measures. It utilizes a virtual environment comprising the following components:
+![image](https://github.com/user-attachments/assets/345ba5db-b3ba-43ed-b859-242fff939e78)
 
 - **VMware**
 - **pfSense Firewall**

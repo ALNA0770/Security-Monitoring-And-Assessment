@@ -35,6 +35,9 @@ This README provides step-by-step instructions for installing VMware and setting
 ### 2. Create Virtual Machines
 
 #### a) Create pfSense Firewall VM
+![pfSense vmware](https://github.com/user-attachments/assets/a642c337-acf7-4734-89fc-dece57326a6a)
+
+
 
 1. Open VMware Workstation Pro and click **Create a New Virtual Machine**.
 2. Select **Custom (advanced)** and click **Next**.
@@ -62,6 +65,10 @@ This README provides step-by-step instructions for installing VMware and setting
 
 #### c) Create Kali Linux VM
 
+![Kali linux vmware](https://github.com/user-attachments/assets/a8cdf381-b40b-4c99-90b7-790265dff32e)
+
+
+
 1. Create a new VM and select **Linux** > **Debian 64-bit** as the guest OS.
 2. Assign:
    - Memory: 4 GB
@@ -73,6 +80,10 @@ This README provides step-by-step instructions for installing VMware and setting
 
 #### d) Create Ubuntu Server VM
 
+![Ubuntu Server vmware](https://github.com/user-attachments/assets/4344da56-dba2-49a8-88f3-6ab68f40b3cb)
+
+
+
 1. Create a new VM and select **Linux** > **Ubuntu 64-bit** as the guest OS.
 2. Assign:
    - Memory: 4 GB
@@ -83,6 +94,9 @@ This README provides step-by-step instructions for installing VMware and setting
 4. Follow the installation instructions to set up the server.
 
 #### e) Create Windows Server VM
+
+![Windows server](https://github.com/user-attachments/assets/73a005cc-e14f-40bd-bf50-8608028101cc)
+
 
 1. Create a new VM and select **Microsoft Windows** > **Windows Server 2019/2022** as the guest OS.
 2. Assign:

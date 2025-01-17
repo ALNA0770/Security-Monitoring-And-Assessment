@@ -43,17 +43,8 @@ This project focuses on securing network devices by implementing and assessing v
    - Kali Linux
 3. Basic networking knowledge.
 
-### **Steps to Set Up the Environment**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/security-hardening
-   cd security-hardening
-   ```
-2. Follow the detailed setup guide in `documentation/setup_guide.md`.
-3. Import VMs into VMware and configure networking according to the guide.
-
 ## **Usage**
-1. Start all VMs in the VMware environment.
+1. Install VMware Workstation. Start all VMs in the VMware environment.
 2. Use pfSense to manage network traffic and security policies.
 3. Monitor network activity using Security Onion.
 4. Perform security assessments with Kali Linux.

@@ -2,7 +2,7 @@
  
 # Security Assessment and Hardening of Network Devices
 (Project is minimum 50 GB)
-This repository contains the project files, configurations, and documentation for the thesis **"Security Assessment and Hardening of Network Devices."**
+This repository contains the project files, configurations, and documentation for the project **"Security Assessment and Hardening of Network Devices."**
 
 ## **Overview**
 This project focuses on securing network devices by implementing and assessing various security measures. It utilizes a virtual environment comprising the following components:

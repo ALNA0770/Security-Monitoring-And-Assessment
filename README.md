@@ -1,5 +1,5 @@
-# Thesis
-Thesis of bachelor degree  
+# Project
+ 
 # Security Assessment and Hardening of Network Devices
 (Project is minimum 50 GB)
 This repository contains the project files, configurations, and documentation for the thesis **"Security Assessment and Hardening of Network Devices."**
@@ -65,7 +65,7 @@ The project highlights effective methods for securing network devices and demons
 ## **Contact**
 For questions or contributions, please reach out:
 - **Name:** Alijon Nazarov
-- **Email:** anazaro1@stu.vistula.edu.pl
+- **Email:** nazarov31ali@gmail.com
 - **GitHub:** (https://github.com/ALNA0770)
 
 ---
